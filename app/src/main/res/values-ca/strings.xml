@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check">Comprova</string>
+    <string name="question">Pregunta</string>
+    <string name="answer1_content">Girona</string>
+    <string name="answer2_content">Lleida</string>
+    <string name="question_content">Quina és la capital de Catalunya ?</string>
+    <string name="ok">Molt bé!</string>
+    <string name="notok">Fas pena !</string>
+    <string name="select">Selecciona una resposta</string>
+</resources>

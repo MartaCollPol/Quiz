@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+
+    <string name="question_content"> What is the capital of Catalonia ?</string>
+
+    <integer name="correct_answer">3</integer>
+
+    <array name= "answers">
+        <item>Girona</item>
+        <item>Lleida</item>
+        <item>Tarragona</item>
+        <item>Barcelona</item>
+    </array>
+
+    <string name="answer1_content">Girona</string>
+    <string name="answer2_content">Lleida</string>
+
+    <string name="ok"> Correct!!</string>
+    <string name= "notok"> Incorrect !!</string>
+    <string name= "select">Select an answer</string>
+
+</resources>
